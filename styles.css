@@ -1,0 +1,16 @@
+header{
+    bakground-color:yellow;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+body{
+    color: white
+    backgroud-color:  black;
+    text-aling: justify;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
