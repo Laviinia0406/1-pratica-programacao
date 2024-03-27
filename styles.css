@@ -1,13 +1,14 @@
 header{
-    bakground-color:yellow;
+    background-color:yellow;
+    text-align:center;
     padding: 15px;
     border-radius: 15px;
 }
 
 body{
-    color: white
-    backgroud-color:  black;
-    text-aling: justify;
+    color: white;
+    background-image: linear-gradient (to right, red, green);
+    font-family: sans-serif;
     font-size: 20px;
 }
 
