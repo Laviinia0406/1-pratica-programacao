@@ -6,7 +6,7 @@ header{
 }
 
 body{
-    color: white;
+    color: rgb(24, 7, 7);
     background-image: linear-gradient (to right, red, green);
     font-family: sans-serif;
     font-size: 20px;
